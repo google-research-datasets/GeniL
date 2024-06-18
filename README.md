@@ -24,11 +24,13 @@ Each file in the dataset folder represent the annoations for a specific language
 
   
 # Citation
+```
 @misc{davani2024genil,
-      title={GeniL: A Multilingual Dataset on Generalizing Language}, 
+      title={GeniL: A Multilingual Dataset on Generalizing Language},
       author={Aida Mostafazadeh Davani and Sagar Gubbi and Sunipa Dev and Shachi Dave and Vinodkumar Prabhakaran},
       year={2024},
       eprint={2404.05866},
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+```
