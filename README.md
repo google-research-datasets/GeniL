@@ -1,7 +1,7 @@
 # GeniL
 This repository contains data resources for the following paper: 
 
-- [GeniL: A Multilingual Dataset on Generalizing Language](https://arxiv.org/pdf/2404.05866) (under review).
+- [GeniL: A Multilingual Dataset on Generalizing Language](https://arxiv.org/pdf/2404.05866) (accepted at COLM'24)
 
 The GeniL dataset is created as an effort for detecting various types of generalization in language. 
 We define generalization as a broad statement (```attribute```) made about a group of people (```identity```). 
