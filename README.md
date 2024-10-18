@@ -1,4 +1,4 @@
-# D3code
+# GeniL
 This repository contains data resources for the following paper: 
 
 - [GeniL: A Multilingual Dataset on Generalizing Language](https://arxiv.org/pdf/2404.05866) (under review).
